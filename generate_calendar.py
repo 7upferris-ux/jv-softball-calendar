@@ -81,3 +81,4 @@ with open("calendar.ics", "w") as f:
     f.write(ics)
     
 push to main
+# Trigger workflow

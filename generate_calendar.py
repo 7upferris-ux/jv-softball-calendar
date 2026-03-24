@@ -79,3 +79,5 @@ ics = create_ics(events)
 
 with open("calendar.ics", "w") as f:
     f.write(ics)
+    
+push to main
